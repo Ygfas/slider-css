@@ -1,2 +1,2 @@
 ##.
-Slide htmk + CSS vanilla 
+Slide html + CSS vanilla 
